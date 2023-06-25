@@ -1,0 +1,19 @@
+{
+  "name": "com.google.chromecast",
+  "version": "5.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athombv/com.google.chromecast.git"
+  },
+  "author": "Athom B.V.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athombv/com.google.chromecast/issues"
+  },
+  "homepage": "https://github.com/athombv/com.google.chromecast#readme",
+  "dependencies": {
+    "@types/homey": "npm:homey-apps-sdk-v3-types@^0.3.1",
+    "node-fetch": "^2.6.0",
+    "protobufjs": "^6.8.8"
+  }
+}

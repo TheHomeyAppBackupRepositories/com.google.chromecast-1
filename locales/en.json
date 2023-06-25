@@ -1,0 +1,7 @@
+{
+    "searching_chromecast": "Searching for Chromecasts",
+    "connection_closed": "Connection closed, trying to reconnect",
+    "offline": "Unavailable",
+    "incorrect_url": "Invalid URL",
+    "deprecated": "This device is no longer available. Please re-add your Chromecast device in the pairing wizard."
+}

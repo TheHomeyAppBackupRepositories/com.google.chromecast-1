@@ -1,0 +1,1 @@
+Gebruik je Chromecast met Homey om video's en muziek met een Flow te starten. Of stuur een afbeelding van je IP camera naar je Chromecast wanneer de deurbel gaat.
