@@ -1,0 +1,10 @@
+{
+  "searching_chromecast": "Söker efter Chromecasts",
+  "connection_closed": "Anslutningen stängd, försöker ansluta igen",
+  "offline": "Otillgänglig",
+  "incorrect_url": "Ogiltig URL",
+  "deprecated": "Den här enheten är inte längre tillgänglig. Vänligen lägg till din Chromecast-enhet igen i parningsguiden.",
+  "soundboard": {
+    "app_not_installed": "Soundboard-appen är inte installerad på denna Homey."
+  }
+}

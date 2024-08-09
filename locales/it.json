@@ -1,0 +1,10 @@
+{
+  "searching_chromecast": "Ricerca di Chromecast in corso",
+  "connection_closed": "Connessione chiusa, sto provando a riconnettermi",
+  "offline": "Non disponibile",
+  "incorrect_url": "URL non valido",
+  "deprecated": "Questo dispositivo non è più disponibile. Per favore riaggiungi il tuo dispositivo Chromecast tramite la procedura guidata di abbinamento.",
+  "soundboard": {
+    "app_not_installed": "L'app Soundboard non è installata su questo Homey."
+  }
+}

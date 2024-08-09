@@ -1,0 +1,10 @@
+{
+  "searching_chromecast": "Поиск Chromecast",
+  "connection_closed": "Соединение закрыто, пытаемся переподключиться",
+  "offline": "Недоступно",
+  "incorrect_url": "Неверный URL",
+  "deprecated": "Это устройство больше не доступно. Пожалуйста, заново добавьте устройство Chromecast в мастере подключения.",
+  "soundboard": {
+    "app_not_installed": "Приложение Soundboard не установлено на этом Homey."
+  }
+}

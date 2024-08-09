@@ -1,0 +1,10 @@
+{
+  "searching_chromecast": "Szukam urządzeń Chromecast",
+  "connection_closed": "Połączenie zamknięte, próbuję ponownie połączyć",
+  "offline": "Niedostępny",
+  "incorrect_url": "Niepoprawny adres URL",
+  "deprecated": "To urządzenie nie jest już dostępne. Proszę ponownie dodać urządzenie Chromecast w kreatorze parowania.",
+  "soundboard": {
+    "app_not_installed": "Aplikacja Soundboard nie jest zainstalowana na tym Homey."
+  }
+}

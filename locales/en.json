@@ -3,5 +3,8 @@
     "connection_closed": "Connection closed, trying to reconnect",
     "offline": "Unavailable",
     "incorrect_url": "Invalid URL",
-    "deprecated": "This device is no longer available. Please re-add your Chromecast device in the pairing wizard."
+    "deprecated": "This device is no longer available. Please re-add your Chromecast device in the pairing wizard.",
+    "soundboard": {
+        "app_not_installed": "The Soundboard app is not installed on this Homey."
+    }
 }

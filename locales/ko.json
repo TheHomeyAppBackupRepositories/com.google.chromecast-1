@@ -1,0 +1,10 @@
+{
+  "searching_chromecast": "Chromecast 검색 중",
+  "connection_closed": "연결이 끊어졌습니다, 다시 연결 시도 중",
+  "offline": "사용할 수 없음",
+  "incorrect_url": "잘못된 URL",
+  "deprecated": "이 장치는 더 이상 사용할 수 없습니다. 페어링 마법사에서 Chromecast 장치를 다시 추가하세요.",
+  "soundboard": {
+    "app_not_installed": "사운드보드 앱이 이 Homey에 설치되어 있지 않습니다."
+  }
+}

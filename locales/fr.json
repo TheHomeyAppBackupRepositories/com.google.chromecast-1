@@ -1,0 +1,10 @@
+{
+  "searching_chromecast": "Recherche de Chromecasts",
+  "connection_closed": "Connexion fermée, tentative de reconnexion",
+  "offline": "Indisponible",
+  "incorrect_url": "URL invalide",
+  "deprecated": "Cet appareil n'est plus disponible. Veuillez réajouter votre appareil Chromecast dans l'assistant de jumelage.",
+  "soundboard": {
+    "app_not_installed": "L'application Soundboard n'est pas installée sur ce Homey."
+  }
+}
